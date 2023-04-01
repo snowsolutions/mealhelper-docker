@@ -8,4 +8,4 @@ services:
     ports:
       - "7878:7878"
     volumes:
-      - ./src/:/app
+      - ./src:/app
